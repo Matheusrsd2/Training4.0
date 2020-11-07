@@ -1,3 +1,11 @@
 /Training-App
 
 /Training.WebAPI/wwwroot
+/Training.WebAPI/obj
+/Training.WebAPI/bin
+
+/Training.Domain/bin
+/Training.Domain/obj
+
+/Training.Repository/bin
+/Training.Repository/obj
