@@ -10,8 +10,16 @@ namespace Training.Repository
          void Delete<T> (T entity) where T : class;
          Task <bool> SaveChangesAsync();
 
-        //Cursos 
+        /*
+        Get Cursos
+        ***************/ 
          Task<Curso[]> GetAllCursosAsync ();
          Task<Curso[]> GetCursoAsyncById(int CursoId);
+
+        /*
+        Aulas
+        ***************/ 
+        Task<Aula[]> GetAllAulasAsync ();
+        Task<Aula[]> GetAulaAsyncById(int AulaId);
     }
 }

@@ -73,6 +73,8 @@ namespace Training.Repository.Migrations
 
                     b.Property<string>("Nome");
 
+                    b.Property<string>("TempoDuracao");
+
                     b.HasKey("Id");
 
                     b.HasIndex("CategoriaId");

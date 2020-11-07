@@ -12,7 +12,7 @@ namespace Training.Repository
         public TrainingRepository(TrainingContext context)
         {
             _context = context;
-            
+
         }
         //Adicionar
         public void Add<T>(T entity) where T : class
@@ -40,10 +40,9 @@ namespace Training.Repository
             IQueryable<Curso> query = _context.Cursos
                 .Include(c => c.Aulas);
 
-            query = query.OrderByDescending(c => c.DataCadastro);
+            query = query.OrderBy(c => c.Id);
 
             return await query.ToArrayAsync();
-
         }
 
         public async Task<Curso[]> GetCursoAsyncById(int CursoId)
@@ -54,5 +53,24 @@ namespace Training.Repository
             query = query.Where(c => c.Id == CursoId);
             return await query.ToArrayAsync();
         }
+
+        public async Task<Aula[]> GetAllAulasAsync () 
+        {
+            IQueryable<Aula> query = _context.Aulas
+            .Include(x => x.Perguntas);
+            if (query != null)
+            query = query.OrderBy(x => x.Id);
+
+            return await query.ToArrayAsync();
+        }
+        public async Task<Aula[]> GetAulaAsyncById(int AulaId) 
+        {
+            IQueryable<Aula> query = _context.Aulas
+                .Include(c => c.Perguntas);
+            if(query != null)
+            query = query.Where(c => c.Id == AulaId);
+            return await query.ToArrayAsync();
+        }
+
     }
 }

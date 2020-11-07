@@ -10,7 +10,7 @@ using Training.Repository;
 namespace Training.Repository.Migrations
 {
     [DbContext(typeof(TrainingContext))]
-    [Migration("20201025014924_init")]
+    [Migration("20201103223351_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -74,6 +74,8 @@ namespace Training.Repository.Migrations
                     b.Property<string>("Imagem");
 
                     b.Property<string>("Nome");
+
+                    b.Property<string>("TempoDuracao");
 
                     b.HasKey("Id");
 
