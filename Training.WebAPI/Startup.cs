@@ -13,6 +13,9 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Training.Repository;
 using Newtonsoft.Json;  
+using System.IO;
+using Microsoft.Extensions.FileProviders;
+using Microsoft.AspNetCore.Http;
 
 namespace Training.WebAPI
 {
@@ -58,6 +61,10 @@ namespace Training.WebAPI
             // Enable Cors
             app.UseCors("MyPolicy");
             app.UseStaticFiles();
+            app.UseStaticFiles(new StaticFileOptions(){
+                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), @"Resources")),
+                RequestPath = new PathString("/Resources")
+            });
             app.UseHttpsRedirection();
             
             app.UseMvc();
