@@ -38,9 +38,9 @@ namespace Training.Repository
         public async Task<Curso[]> GetAllCursosAsync()
         {
             IQueryable<Curso> query = _context.Cursos
-                .Include(c => c.Aulas);
+                .Include(c => c.Aulas)
+                .OrderBy(c => c.Id);
 
-            query = query.OrderBy(c => c.Id);
 
             return await query.ToArrayAsync();
         }

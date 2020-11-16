@@ -1,12 +1,12 @@
-C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csprojAssemblyReference.cache
-C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csproj.CoreCompileInputs.cache
-C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.AssemblyInfoInputs.cache
-C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.AssemblyInfo.cs
 C:\Training 4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.deps.json
 C:\Training 4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.dll
 C:\Training 4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.pdb
 C:\Training 4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Domain.dll
 C:\Training 4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Domain.pdb
+C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csprojAssemblyReference.cache
+C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csproj.CoreCompileInputs.cache
+C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.AssemblyInfoInputs.cache
+C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.AssemblyInfo.cs
 C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csproj.CopyComplete
 C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.dll
 C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.pdb

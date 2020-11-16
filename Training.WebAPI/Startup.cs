@@ -53,11 +53,17 @@ namespace Training.WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
+           
+            app.Use(async (context, next) => 
             {
-                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-                app.UseHsts();
-            }
+                await next();
+                if (context.Response.StatusCode == 404 && !System.IO.Path.HasExtension(context.Request.Path.Value))
+                {
+                    context.Request.Path = "/index.html";
+                    await next();
+                }
+            });
+
             // Enable Cors
             app.UseCors("MyPolicy");
             app.UseDefaultFiles();
