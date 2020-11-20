@@ -1,41 +1,5 @@
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.deps.json
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.runtimeconfig.json
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.runtimeconfig.dev.json
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.dll
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.pdb
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Domain.dll
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Repository.dll
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Domain.pdb
-C:\Training 4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Repository.pdb
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csprojAssemblyReference.cache
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csproj.CoreCompileInputs.cache
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorAssemblyInfo.cache
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorAssemblyInfo.cs
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfoInputs.cache
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfo.cs
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorTargetAssemblyInfo.cache
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csproj.CopyComplete
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.dll
-C:\Training 4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.pdb
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.deps.json
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.runtimeconfig.json
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.runtimeconfig.dev.json
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.dll
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.pdb
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Domain.dll
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Repository.dll
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Domain.pdb
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Repository.pdb
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csprojAssemblyReference.cache
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfoInputs.cache
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfo.cs
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorAssemblyInfo.cache
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorAssemblyInfo.cs
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorTargetAssemblyInfo.cache
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csproj.CopyComplete
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.dll
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.pdb
+C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.deps.json
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.runtimeconfig.json
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.runtimeconfig.dev.json
@@ -46,12 +10,13 @@ C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Traini
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Domain.pdb
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Repository.pdb
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csprojAssemblyReference.cache
+C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfoInputs.cache
+C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfo.cs
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csproj.CoreCompileInputs.cache
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorAssemblyInfo.cache
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorAssemblyInfo.cs
-C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfoInputs.cache
-C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfo.cs
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorTargetAssemblyInfo.cache
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csproj.CopyComplete
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.dll
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.pdb
+C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.genruntimeconfig.cache

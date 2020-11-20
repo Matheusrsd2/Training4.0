@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UquNTO/5TzKjdt/rwpCW1N5X76yOjFDVhAEhqCOG7XSKrrkyN3FUkad1oA1jrls5GHo7AwWN00riSIYeYHFfeQ==",
+  "dgSpecHash": "M3FCD/7DTTgCWcBGGXD+irdNzPARrCZwqz/laSybX01A9+TmLVEPAb2rRfON5DkDN4wckDrFsfjxrh1dwCl58w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus Reis\\Desktop\\Training4.0\\Training.Domain\\Training.Domain.csproj",
+  "projectFilePath": "C:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

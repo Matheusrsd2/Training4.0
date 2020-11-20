@@ -1,27 +1,8 @@
-C:\Training 4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.deps.json
-C:\Training 4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.dll
-C:\Training 4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.pdb
-C:\Training 4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csprojAssemblyReference.cache
-C:\Training 4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csproj.CoreCompileInputs.cache
-C:\Training 4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.AssemblyInfoInputs.cache
-C:\Training 4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.AssemblyInfo.cs
-C:\Training 4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.dll
-C:\Training 4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.pdb
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.deps.json
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.dll
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.pdb
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csprojAssemblyReference.cache
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.AssemblyInfoInputs.cache
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.AssemblyInfo.cs
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.dll
-C:\Users\Matheus Reis\Desktop\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.pdb
 C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.deps.json
 C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.dll
 C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.pdb
-C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csprojAssemblyReference.cache
-C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csproj.CoreCompileInputs.cache
 C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.AssemblyInfoInputs.cache
 C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.AssemblyInfo.cs
+C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csproj.CoreCompileInputs.cache
 C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.dll
 C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mk14eI2MnJQt1/RTnGxRbby3fkRxYY+hRJ4uJfJK7edR5H/ub7l3SnQS5d5M/tbzDybl/hH12Fp0NSLBkjB3bg==",
+  "dgSpecHash": "LOCDbjVeaZs5HTmOfqT2qLlYDeQN2kS/kHnWUmROfxv/5QSqBOC9oTrA6yOXYcOA8+o7xNfQz5NY8ekE6suXDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus Reis\\Desktop\\Training4.0\\Training.Repository\\Training.Repository.csproj",
+  "projectFilePath": "C:\\Projetos .NET Core\\Training4.0\\Training.Repository\\Training.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus Reis\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.2\\microsoft.entityframeworkcore.2.2.2.nupkg.sha512",
     "C:\\Users\\Matheus Reis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.2\\microsoft.entityframeworkcore.abstractions.2.2.2.nupkg.sha512",

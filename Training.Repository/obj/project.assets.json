@@ -3094,11 +3094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Projetos .NET Core\\Training4.0\\Training.Repository\\Training.Repository.csproj",
+      "projectUniqueName": "C:\\Projetos .NET Core\\Training4.0\\Training.Repository\\Training.Repository.csproj",
       "projectName": "Training.Repository",
-      "projectPath": "c:\\Projetos .NET Core\\Training4.0\\Training.Repository\\Training.Repository.csproj",
+      "projectPath": "C:\\Projetos .NET Core\\Training4.0\\Training.Repository\\Training.Repository.csproj",
       "packagesPath": "C:\\Users\\Matheus Reis\\.nuget\\packages\\",
-      "outputPath": "c:\\Projetos .NET Core\\Training4.0\\Training.Repository\\obj\\",
+      "outputPath": "C:\\Projetos .NET Core\\Training4.0\\Training.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3116,6 +3116,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {
             "C:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj": {
               "projectPath": "C:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj"
@@ -3131,6 +3132,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -3148,10 +3150,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

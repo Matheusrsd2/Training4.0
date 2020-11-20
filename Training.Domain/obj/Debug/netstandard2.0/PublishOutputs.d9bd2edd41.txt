@@ -1,0 +1,3 @@
+C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\publish\Training.Domain.dll
+C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\publish\Training.Domain.deps.json
+C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\publish\Training.Domain.pdb

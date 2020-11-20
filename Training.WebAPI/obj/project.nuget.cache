@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wgkeDrFVTd4HXyOhuhVXnY9kfF7SyjiBWj750iYp+1P70cQBuPAkAjzC9xSsk993PZMhrEv/1P9A+iBN9EzktQ==",
+  "dgSpecHash": "z8CuSC9BA+Hwc/jGuMeOfMdMIfQlEzdblDTJDfrqQDcIKk1A08oyWbjckkB2ILyXqAy+DEpRbEc0f8S1gOq79w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matheus Reis\\Desktop\\Training4.0\\Training.WebAPI\\Training.WebAPI.csproj",
+  "projectFilePath": "C:\\Projetos .NET Core\\Training4.0\\Training.WebAPI\\Training.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
