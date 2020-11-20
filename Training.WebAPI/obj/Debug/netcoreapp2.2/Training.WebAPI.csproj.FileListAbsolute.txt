@@ -1,5 +1,3 @@
-C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
-C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.deps.json
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.runtimeconfig.json
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.WebAPI.runtimeconfig.dev.json
@@ -10,13 +8,12 @@ C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Traini
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Domain.pdb
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp2.2\Training.Repository.pdb
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csprojAssemblyReference.cache
-C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfoInputs.cache
-C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfo.cs
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csproj.CoreCompileInputs.cache
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorAssemblyInfo.cache
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorAssemblyInfo.cs
+C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfoInputs.cache
+C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.AssemblyInfo.cs
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.RazorTargetAssemblyInfo.cache
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.csproj.CopyComplete
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.dll
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.pdb
-C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp2.2\Training.WebAPI.genruntimeconfig.cache

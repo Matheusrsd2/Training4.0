@@ -12158,7 +12158,6 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "targetAlias": "netcoreapp2.2",
           "projectReferences": {
             "C:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj": {
               "projectPath": "C:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj"
@@ -12177,7 +12176,6 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
@@ -12206,16 +12204,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
