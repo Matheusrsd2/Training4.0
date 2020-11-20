@@ -1,9 +1,0 @@
-C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.deps.json
-C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.dll
-C:\Projetos .NET Core\Training4.0\Training.Domain\bin\Debug\netstandard2.0\Training.Domain.pdb
-C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csprojAssemblyReference.cache
-C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.csproj.CoreCompileInputs.cache
-C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.AssemblyInfoInputs.cache
-C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.AssemblyInfo.cs
-C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.dll
-C:\Projetos .NET Core\Training4.0\Training.Domain\obj\Debug\netstandard2.0\Training.Domain.pdb
