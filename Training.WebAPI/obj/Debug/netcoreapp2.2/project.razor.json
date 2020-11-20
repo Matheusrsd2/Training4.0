@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Projetos .NET Core\\Training4.0\\Training.WebAPI\\Training.WebAPI.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "Training.WebAPI",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

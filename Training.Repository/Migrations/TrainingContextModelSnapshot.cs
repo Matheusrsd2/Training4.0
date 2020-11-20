@@ -31,7 +31,7 @@ namespace Training.Repository.Migrations
 
                     b.Property<string>("Descricao");
 
-                    b.Property<DateTime>("Duracao");
+                    b.Property<string>("Duracao");
 
                     b.Property<string>("VideoAula");
 
@@ -69,6 +69,8 @@ namespace Training.Repository.Migrations
 
                     b.Property<DateTime?>("DataCadastro");
 
+                    b.Property<string>("Descricao");
+
                     b.Property<string>("Imagem");
 
                     b.Property<string>("Nome");
@@ -89,6 +91,8 @@ namespace Training.Repository.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<int?>("AulaId");
+
+                    b.Property<DateTime>("Data");
 
                     b.Property<string>("Imagem1");
 

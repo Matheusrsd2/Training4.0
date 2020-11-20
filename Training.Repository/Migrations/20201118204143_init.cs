@@ -49,7 +49,8 @@ namespace Training.Repository.Migrations
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     Nome = table.Column<string>(nullable: true),
-                    Classificacao = table.Column<decimal>(nullable: true),
+                    Descricao = table.Column<string>(nullable: true),
+                    Classificacao = table.Column<decimal>(nullable: false),
                     DataCadastro = table.Column<DateTime>(nullable: true),
                     TempoDuracao = table.Column<string>(nullable: true),
                     Imagem = table.Column<string>(nullable: true),
@@ -74,7 +75,7 @@ namespace Training.Repository.Migrations
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                     Descricao = table.Column<string>(nullable: true),
                     VideoAula = table.Column<string>(nullable: true),
-                    Duracao = table.Column<string>(nullable: false),
+                    Duracao = table.Column<string>(nullable: true),
                     DataCadastro = table.Column<DateTime>(nullable: false),
                     CursoId = table.Column<int>(nullable: true)
                 },
@@ -123,6 +124,7 @@ namespace Training.Repository.Migrations
                     Imagem1 = table.Column<string>(nullable: true),
                     Imagem2 = table.Column<string>(nullable: true),
                     Imagem3 = table.Column<string>(nullable: true),
+                    Data = table.Column<DateTime>(nullable: false),
                     AulaId = table.Column<int>(nullable: true),
                     UsuarioId = table.Column<int>(nullable: true)
                 },

@@ -8,6 +8,7 @@ namespace Training.Domain
     {
         public int Id { get; set; }
         public string Nome { get; set; }
+        public string Descricao { get; set; }
         public decimal Classificacao { get; set; }
         public DateTime? DataCadastro { get; set; }
         public string TempoDuracao { get; set; }

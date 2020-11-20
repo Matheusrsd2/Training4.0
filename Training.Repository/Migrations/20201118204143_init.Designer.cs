@@ -10,7 +10,7 @@ using Training.Repository;
 namespace Training.Repository.Migrations
 {
     [DbContext(typeof(TrainingContext))]
-    [Migration("20201103223351_init")]
+    [Migration("20201118204143_init")]
     partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,7 +33,7 @@ namespace Training.Repository.Migrations
 
                     b.Property<string>("Descricao");
 
-                    b.Property<DateTime>("Duracao");
+                    b.Property<string>("Duracao");
 
                     b.Property<string>("VideoAula");
 
@@ -71,6 +71,8 @@ namespace Training.Repository.Migrations
 
                     b.Property<DateTime?>("DataCadastro");
 
+                    b.Property<string>("Descricao");
+
                     b.Property<string>("Imagem");
 
                     b.Property<string>("Nome");
@@ -91,6 +93,8 @@ namespace Training.Repository.Migrations
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
                     b.Property<int?>("AulaId");
+
+                    b.Property<DateTime>("Data");
 
                     b.Property<string>("Imagem1");
 

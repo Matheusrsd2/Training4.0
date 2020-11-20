@@ -21,5 +21,9 @@ namespace Training.Repository
         ***************/ 
         Task<Aula[]> GetAllAulasAsync ();
         Task<Aula[]> GetAulaAsyncById(int AulaId);
+
+        //Perguntas
+        Task<Pergunta[]> GetPerguntasAsync();
+        
     }
 }

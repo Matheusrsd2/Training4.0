@@ -12136,32 +12136,34 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training 4.0\\Training.WebAPI\\Training.WebAPI.csproj",
+      "projectUniqueName": "C:\\Projetos .NET Core\\Training4.0\\Training.WebAPI\\Training.WebAPI.csproj",
       "projectName": "Training.WebAPI",
-      "projectPath": "C:\\Training 4.0\\Training.WebAPI\\Training.WebAPI.csproj",
+      "projectPath": "C:\\Projetos .NET Core\\Training4.0\\Training.WebAPI\\Training.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Matheus Reis\\.nuget\\packages\\",
-      "outputPath": "C:\\Training 4.0\\Training.WebAPI\\obj\\",
+      "outputPath": "C:\\Projetos .NET Core\\Training4.0\\Training.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Matheus Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Matheus Reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Training 4.0\\Training.Domain\\Training.Domain.csproj": {
-              "projectPath": "C:\\Training 4.0\\Training.Domain\\Training.Domain.csproj"
+            "C:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj": {
+              "projectPath": "C:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj"
             },
-            "C:\\Training 4.0\\Training.Repository\\Training.Repository.csproj": {
-              "projectPath": "C:\\Training 4.0\\Training.Repository\\Training.Repository.csproj"
+            "C:\\Projetos .NET Core\\Training4.0\\Training.Repository\\Training.Repository.csproj": {
+              "projectPath": "C:\\Projetos .NET Core\\Training4.0\\Training.Repository\\Training.Repository.csproj"
             }
           }
         }

@@ -185,22 +185,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training 4.0\\Training.Domain\\Training.Domain.csproj",
+      "projectUniqueName": "c:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj",
       "projectName": "Training.Domain",
-      "projectPath": "C:\\Training 4.0\\Training.Domain\\Training.Domain.csproj",
+      "projectPath": "c:\\Projetos .NET Core\\Training4.0\\Training.Domain\\Training.Domain.csproj",
       "packagesPath": "C:\\Users\\Matheus Reis\\.nuget\\packages\\",
-      "outputPath": "C:\\Training 4.0\\Training.Domain\\obj\\",
+      "outputPath": "c:\\Projetos .NET Core\\Training4.0\\Training.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Matheus Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Matheus Reis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

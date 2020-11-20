@@ -54,7 +54,7 @@ namespace Training.WebAPI
                 app.UseDeveloperExceptionPage();
             }
            
-            app.Use(async (context, next) => 
+            /*app.Use(async (context, next) => 
             {
                 await next();
                 if (context.Response.StatusCode == 404 && !System.IO.Path.HasExtension(context.Request.Path.Value))
@@ -62,7 +62,7 @@ namespace Training.WebAPI
                     context.Request.Path = "/index.html";
                     await next();
                 }
-            });
+            });*/
 
             // Enable Cors
             app.UseCors("MyPolicy");

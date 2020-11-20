@@ -72,5 +72,14 @@ namespace Training.Repository
             return await query.ToArrayAsync();
         }
 
+        public async Task<Pergunta[]> GetPerguntasAsync()
+        {
+            IQueryable<Pergunta> query = _context.Perguntas
+            .Include(x => x.Respostas);
+            if (query != null)
+                query = query.OrderBy(x => x.Data);
+
+            return await query.ToArrayAsync();
+        }
     }
 }

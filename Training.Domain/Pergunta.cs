@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace Training.Domain
@@ -5,10 +6,11 @@ namespace Training.Domain
     public class Pergunta
     {
         public int Id { get; set; }
-        public string TextoResposta { get; set; }
+        public string TextoPergunta { get; set; }
         public string Imagem1 { get; set; }
         public string Imagem2 { get; set; }
         public string Imagem3 { get; set; }
+        public DateTime Data { get; set;  }
         public int? AulaId { get; set; }
         public Aula Aula { get; set; }
         public int? UsuarioId { get; set; }

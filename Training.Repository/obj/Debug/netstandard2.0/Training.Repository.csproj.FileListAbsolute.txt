@@ -10,3 +10,27 @@ C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository
 C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csproj.CopyComplete
 C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.dll
 C:\Training 4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.pdb
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.deps.json
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.dll
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.pdb
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Domain.dll
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Domain.pdb
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csprojAssemblyReference.cache
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.AssemblyInfoInputs.cache
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.AssemblyInfo.cs
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csproj.CopyComplete
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.dll
+C:\Users\Matheus Reis\Desktop\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.pdb
+c:\Projetos .NET Core\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.deps.json
+C:\Projetos .NET Core\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.dll
+C:\Projetos .NET Core\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Repository.pdb
+C:\Projetos .NET Core\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Domain.dll
+C:\Projetos .NET Core\Training4.0\Training.Repository\bin\Debug\netstandard2.0\Training.Domain.pdb
+C:\Projetos .NET Core\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csprojAssemblyReference.cache
+C:\Projetos .NET Core\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos .NET Core\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.AssemblyInfoInputs.cache
+C:\Projetos .NET Core\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.AssemblyInfo.cs
+c:\Projetos .NET Core\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.csproj.CopyComplete
+C:\Projetos .NET Core\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.dll
+C:\Projetos .NET Core\Training4.0\Training.Repository\obj\Debug\netstandard2.0\Training.Repository.pdb
