@@ -57,3 +57,4 @@ C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp5.0\Traini
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp5.0\ref\Training.WebAPI.dll
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp5.0\Training.WebAPI.pdb
 C:\Projetos .NET Core\Training4.0\Training.WebAPI\obj\Debug\netcoreapp5.0\Training.WebAPI.genruntimeconfig.cache
+C:\Projetos .NET Core\Training4.0\Training.WebAPI\bin\Debug\netcoreapp5.0\web.config
