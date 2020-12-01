@@ -5,13 +5,6 @@ Esse projeto consiste em 3 camadas que fazem parte do backend do Sistema Trainin
 - Web API
 
 
-# Integrantes
-Matheus dos Reis - RA: 582621
-
-Luis Gustavo - RA: 
-
-Ingrid Nayara - RA: 
-
 # Funcionalidade
 | Data  |  Evento  |
 | ------------------- | ------------------- |
